@@ -12,6 +12,9 @@ function App() {
     <div className="App">
       <Navbar  brand="Pregunta 1 "/>
       
+      <ProyectType />
+      <TaskList />
+      
     </div>
     
     

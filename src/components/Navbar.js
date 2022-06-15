@@ -6,7 +6,9 @@ const Navbar = ({brand}) => {
       <div className="container">
         <a className="navbar-brand text uppercase" href='/'>{brand}</a>
       </div>
+      
     </nav>
+    
   )
 }
 
